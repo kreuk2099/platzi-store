@@ -3,7 +3,7 @@ export default {
   products: [
     {
       'id': '1',
-      'image': 'https://arepa.s3.amazonaws.com/camiseta.png',
+      'image': 'https://kreuk2099.s3.amazonaws.com/black-wallpaper.png',
       'title': 'Camiseta',
       'price': 25,
       'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
